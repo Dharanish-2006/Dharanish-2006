@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hi there! I'm Alex — a caffeine-fueled code wizard 🧙‍♂️<br>
 👨🏿‍🎓 college Student<br>🔭 I’m currently working on MERN ,Django projects<br>🌱 I’m currently learning DSA
 
 
